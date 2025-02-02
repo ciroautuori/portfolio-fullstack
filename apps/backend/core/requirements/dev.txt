@@ -1,0 +1,18 @@
+-r base.txt
+
+# Development tools
+django-debug-toolbar>=4.2.0
+pytest>=7.4.0
+pytest-django>=4.7.0
+black>=23.9.0
+flake8>=6.1.0
+
+attrs==24.3.0
+
+gunicorn==21.2.0
+packaging==23.2
+
+python-decouple==3.8
+sqlparse==0.4.4
+typing_extensions==4.9.0
+whitenoise==6.6.0
