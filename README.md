@@ -1,10 +1,10 @@
 # 🚀 Dynamic Full-Stack Portfolio
 
-[![Django](https://img.shields.io/badge/django-5.1.5-green.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)  
-[![React](https://img.shields.io/badge/react-18.0.0-blue.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)  
-[![PostgreSQL](https://img.shields.io/badge/postgresql-15-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)  
-[![Nginx](https://img.shields.io/badge/nginx-1.21.3-brightgreen.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)  
-[![Docker](https://img.shields.io/badge/docker-20.10.8-blue.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)  
+[![Django](https://img.shields.io/badge/django-5.1.5-green.svg?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![React](https://img.shields.io/badge/react-18.0.0-blue.svg?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![PostgreSQL](https://img.shields.io/badge/postgresql-15-blue.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Nginx](https://img.shields.io/badge/nginx-1.21.3-brightgreen.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://www.nginx.com/)
+[![Docker](https://img.shields.io/badge/docker-20.10.8-blue.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.0.0-blue.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
 **Dynamic Full-Stack Portfolio** is a fully containerized portfolio application designed to showcase and manage your professional experience dynamically. Built with a robust full-stack architecture that includes **Django**, **React**, **PostgreSQL**, and **Nginx**, this project offers a seamless and modern solution for updating and presenting your CV.
