@@ -44,18 +44,18 @@ Ensure you have the following installed:
 ```sh
 git clone https://github.com/yourusername/yourproject.git
 cd yourproject
-
+```
 2️⃣ Create a .env.dev file
 Configure environment variables for database, Django settings, and allowed hosts.
 
 3️⃣ Start the development environment
-
+```sh
 docker-compose up --build
-
+```
 4️⃣ Verify running containers
-
+```sh
 docker ps
-
+```
 🚀 Usage
 
 ▶️ Running the Application
