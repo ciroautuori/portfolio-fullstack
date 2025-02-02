@@ -7,8 +7,6 @@
 [![Docker](https://img.shields.io/badge/docker-20.10.8-blue.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![Tailwind CSS](https://img.shields.io/badge/tailwindcss-3.0.0-blue.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 
----
-
 A fully containerized full-stack portfolio with an admin panel for managing CV data. Built with **Django**, **React**, **PostgreSQL**, and **Nginx**, this application allows users to dynamically update and showcase their professional experience.
 
 
